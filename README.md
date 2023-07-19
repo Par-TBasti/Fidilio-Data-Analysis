@@ -1,6 +1,3 @@
 # Fidilio-Data-Report
-In this project we are trying to analysis confectioneries in Tehran and coffeeshops in Iran by their rating, work time, location and the services that they provide to the customer that we extracted from fidilio.com.
 
-
-
-we also present the project in streamlit.
+The data acquisition process involved the utilization of BeautifulSoup to extract information from fidilio.com. Subsequently, this gathered data was meticulously preserved within a structured dataset. To facilitate comprehensive analysis, a bespoke dashboard was developed using Streamlit, affording us the ability to closely examine the functionalities and ratings of the aforementioned data.
